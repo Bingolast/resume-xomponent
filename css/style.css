@@ -141,6 +141,10 @@ button {
   cursor: pointer;
 }
 
+button:hover {
+  background: hsl(224, 30%, 27%);
+}
+
 @media screen and (max-width: 650px) {
   body {
     align-items: flex-start;
