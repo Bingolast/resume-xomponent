@@ -138,6 +138,7 @@ button {
   color: hsl(0, 0%, 100%);
   border: hsl(234, 85%, 45%);
   border-radius: 30px;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 650px) {
@@ -155,8 +156,10 @@ button {
     border-radius: 0 0 1rem 1rem;
     width: 100%;
   }
-  .result {
+  .result .info {
     width: 250px;
+    text-align: center;
+    align-self: center;
   }
   .summary {
     width: 100%;

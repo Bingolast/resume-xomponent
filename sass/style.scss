@@ -159,6 +159,7 @@ button{
     color: $White;
     border: $Cobalt-blue;
     border-radius: 30px;
+    cursor: pointer;
 }
 
 @media screen and (max-width: 650px) {
@@ -177,7 +178,11 @@ button{
       width: 100%;
     }
     .result{
+        .info{
       width: 250px;
+      text-align: center;
+      align-self: center;
+    }
     }
     .summary {
       width: 100%;
