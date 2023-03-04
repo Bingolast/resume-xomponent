@@ -36,12 +36,10 @@ body {
   padding: 1.5rem 2rem;
   border-radius: 2rem;
 }
-
 .result h3 {
   color: hsl(241, 100%, 89%);
   margin: 1.2rem;
 }
-
 .result b {
   color: hsl(0, 0%, 100%);
   margin-bottom: 1.2rem;
@@ -62,13 +60,11 @@ body {
   justify-content: center;
   margin-bottom: 2rem;
 }
-
 .circle h1 {
   color: hsl(0, 0%, 100%);
   font-size: 5rem;
   font-weight: 800;
 }
-
 .circle p {
   color: hsl(241, 100%, 89%);
 }
@@ -81,7 +77,6 @@ body {
   gap: 1.2rem;
   justify-content: center;
 }
-
 .summary h3 {
   font-weight: 800;
 }
@@ -91,7 +86,6 @@ body {
   flex-direction: column;
   gap: 0.2rem;
 }
-
 .rows .row {
   display: flex;
   justify-content: space-between;
@@ -103,7 +97,6 @@ body {
 .row:nth-child(1) {
   background-color: hsla(0, 100%, 67%, 0.2);
 }
-
 .row:nth-child(1) .badge b {
   color: hsl(0, 100%, 67%);
 }
@@ -111,7 +104,6 @@ body {
 .row:nth-child(2) {
   background-color: hsla(0, 95%, 58%, 0.1);
 }
-
 .row:nth-child(2) .badge b {
   color: hsl(39, 100%, 56%);
 }
@@ -119,7 +111,6 @@ body {
 .row:nth-child(3) {
   background-color: hsla(216, 79%, 71%, 0.1);
 }
-
 .row:nth-child(3) .badge b {
   color: hsl(166, 100%, 37%);
 }
@@ -127,7 +118,6 @@ body {
 .row:nth-child(4) {
   background-color: hsla(234, 85%, 45%, 0.2);
 }
-
 .row:nth-child(4) .badge {
   color: hsl(234, 85%, 45%);
 }
@@ -161,6 +151,4 @@ button {
   .summary {
     width: 100%;
   }
-} 
-
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
